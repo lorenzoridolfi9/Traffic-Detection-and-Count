@@ -23,9 +23,14 @@ There are too many classes:
 - truck -xl-
 
 The data set was taken from Roboflow, which also annotated the classes for each frame.
+You can download the dataset at the following [link]().
 
 ## Process of Analysis ⚙️
+The computer vision application used yolov8 to perform object detection, ByteTrack for tracking, and the latest python library from Roboflow - Supervision for object counting.
 
+## Results 📈
+The end result is an .mp4 file that can detect different classes and count the number of objects entering and leaving a particular stretch of highway. 
+This project can find several applications, such as monitoring certain particularly busy stretches, road safety, accident detection, parking management, and many others.
 
 ## Resources 💎
 The .mp4 video used to do detection and counting is available in my google drive at the following [link](https://drive.google.com/drive/folders/1MR0qf6GgHOVlcB59qc6Iw8vydiYvzB6n?usp=sharing), along with the code and the final .mp4 video obtained from the following project.
