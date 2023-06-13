@@ -7,6 +7,21 @@ The dataset used in the following project contains highway traffic images, and i
 - training set (70%) : 4702 model training frames
 - validation set (20%) : 1358 frames of model validation
 - testing set (10%) : 674 frames to test the model.
+
+There are too many classes:
+- car
+- big bus
+- big truck
+- bus -l-
+- bus -s-
+- mid truck
+- small bus
+- small truck
+- truck -l-
+- truck -m-
+- truck -s-
+- truck -xl-
+
 The data set was taken from Roboflow, which also annotated the classes for each frame.
 
 ## Process of Analysis ⚙️
