@@ -1,6 +1,6 @@
 # Traffic-Detection-and-Count 🚗 🚛
 
-##  This repository contains Computer Vision project files. In particular, Yolov8 has been applied for object detection tasks, which can create models that recognize cars, trucks, and other objects on the highway and monitor traffic by counting units passing by at a certain point.
+##  This repository contains Computer Vision project files. In particular, Yolov8 has been applied for object detection tasks, which can create models that recognize cars, trucks and other objects on the highway and monitor traffic by counting units passing by at a certain point.
 
 ## Dataset 📊
 The dataset used in the following project contains highway traffic images, and is divided into 3 parts:
@@ -22,7 +22,7 @@ There are too many classes:
 - truck -s-
 - truck -xl-
 
-The data set was taken from Roboflow, which also annotated the classes for each frame.
+The dataset was taken from Roboflow, which also annotated the classes for each frame.
 you can find the dataset used in the project in my google drive at the following [link](https://drive.google.com/drive/folders/1HaN7tSvvIt_7fmtwo0vxCRIS1TI7Qq1M?usp=sharing).
 
 ## Process of Analysis ⚙️
